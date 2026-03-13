@@ -16,5 +16,3 @@ This is where you can find the projects I'm interested in and working on as I pr
 
 **Tools I'm interested in:**
 - Python, C, HTML, CSS, JS, Lua
-
----
