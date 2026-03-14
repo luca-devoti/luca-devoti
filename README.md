@@ -1,7 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1736251209/110438/pika-wave.gif" width="25"/>
 
-I'm **[Luca](luca-devoti.github.io
-)**, a student at the University of Auckland, studying Computer Science and IT Management.
+I'm **[Luca](luca-devoti.github.io)**, a student at the University of Auckland, studying Computer Science and IT Management.
 
 This is where you can find the projects I'm interested in and working on as I progress through my development journey.
 
